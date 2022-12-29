@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="class58.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Document</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, iusto. Explicabo, quos autem. Temporibus odio animi ea voluptatem molestias totam esse, deleniti eaque odit necessitatibus quidem ut accusantium velit doloribus, delectus, numquam a voluptates dignissimos soluta. Maxime, quod. Quis, doloribus officiis voluptate voluptatum, iusto non natus provident pariatur facilis magnam veniam enim similique id. Nulla aliquid unde inventore, eveniet eos aperiam asperiores nobis debitis est quaerat quibusdam iure deserunt! Minima soluta, hic corrupti, fuga provident delectus aut molestias ducimus voluptatibus optio sint beatae possimus? Repellendus rerum repudiandae nihil perspiciatis consequatur nam doloribus iusto suscipit eum maiores accusamus aperiam esse laudantium illo explicabo autem officia beatae mollitia, officiis necessitatibus dolor quo tenetur amet! Voluptate sequi magnam adipisci consequuntur! Architecto, quia a distinctio id inventore quibusdam perspiciatis, dolores voluptatibus earum dicta accusantium ipsam veniam? Perferendis et nobis facere sunt eum culpa illo laborum quia porro voluptas molestias atque inventore dolore dolores ab, quibusdam neque ea doloremque temporibus dicta totam hic distinctio! Dolore animi reprehenderit molestias praesentium in doloremque cumque sint voluptatum saepe eaque odio labore molestiae dignissimos sunt, nihil illo enim, est sequi. Quas ut ducimus unde accusamus natus ex ipsa sunt commodi perspiciatis, qui necessitatibus distinctio! Necessitatibus ut reiciendis voluptatem alias.</p>
+</body>
+</html>
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+   margin: 10px; 
+}
+
+p{
+    margin: 8px;
+    padding: 20px;
+}

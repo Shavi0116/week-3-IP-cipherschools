@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="class 61.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,200;1,500&family=Roboto:wght@100&display=swap" rel="stylesheet"> 
+    <title>Document</title>
+</head>
+<body>
+    <h1>heading</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus saepe hic, maiores asperiores iure vitae cupiditate totam id minima et odio rerum provident error pariatur natus illum omnis doloremque iste voluptates tenetur. Aperiam expedita rem distinctio magnam architecto. Veritatis incidunt repudiandae, vero obcaecati dolorum officiis aliquid quam amet minus velit ipsum quia sunt perspiciatis itaque eligendi, quis ratione optio quaerat aliquam fugit ut consequatur ipsam autem? Illum dolorum minima maiores ad consequatur unde reprehenderit veniam suscipit neque culpa, dolore soluta aspernatur repellat? Maxime vero, perferendis temporibus quo tempora aut. Aliquam eius odit quia laborum eaque deleniti sit sed nostrum incidunt.</p>
+</body>
+</html>
+
+
+p{
+    font-weight: normal;
+    font-family: 'poppins';
+}
+
+h1{
+    font-weight: 300;
+    font-family: 'poppins';
+}

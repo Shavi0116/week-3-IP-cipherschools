@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="styleshhet" href="class 62.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>headind</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores explicabo consequatur, quibusdam ducimus eaque quo, quisquam odit sapiente expedita tempore illum ut? Optio possimus neque quisquam sed veniam perspiciatis fugiat obcaecati quos! Soluta aspernatur reprehenderit autem veritatis ducimus quod animi provident deserunt, dolore ullam, voluptate molestias odit aliquam sunt exercitationem dolorum laborum similique dolor voluptatum praesentium. Hic numquam nisi natus excepturi quo placeat veniam dolore, doloribus, mollitia voluptas, dignissimos quas eaque. Laudantium incidunt eveniet non est aperiam ducimus blanditiis quisquam nihil magnam deserunt? Dicta aliquid veritatis quod a veniam corporis maxime earum, accusamus quis consequuntur soluta, hic ipsa beatae nesciunt?</p>
+</body>
+</html>
+
+h1{
+    letter-spacing: 4px;
+    font-size: 46px;
+    text-decoration: underline wavy blue;
+}
+
+p{
+    font-size: 20px;
+    line-height: 30px;
+    word-spacing: 8px;
+    letter-spacing: 2px;
+}

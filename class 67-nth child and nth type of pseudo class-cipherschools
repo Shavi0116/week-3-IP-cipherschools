@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="class 67.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <p>I am the first paragraph inside header and first element too</p>
+        <p>i am the second paragraph</p>
+        <p>i am the third paragraph</p>
+        <h3>i am heading and last element</h3>
+    </header>
+
+    <header>
+        <h1>heading</h1>
+        <p>i am the first paragraph</p>
+        <p>i am the second paragraph</p>
+        <p>i am the third paragraph</p>
+        <p>i am the fourth paragraph</p>
+        <p>i am the fifth paragraph</p>
+        <p>i am the sixth paragraph</p>
+        <p>i am the 7th paragraph</p>
+        <p>i am the 8th paragraph</p>
+    </header>
+<p>i am the direct child of the body</p>
+<p>i am also the direct child of the body</p>
+
+<div class="container">
+    <p>i am the first para inside container</p>
+    <p>i am the second para inside container</p>
+</div>
+</body>
+</html>
+
+p:nth-child(2n){
+    color: azure;
+}
+
+p:nth-of-type(2){
+    color: blueviolet;
+}
